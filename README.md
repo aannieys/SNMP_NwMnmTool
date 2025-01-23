@@ -33,8 +33,8 @@ This project is a Python-based GUI tool for interacting with SNMP agents. It sup
 2. Specify the Community string (default: public).
 3. Input the desired OID to start with.
 4. Select an operation:
-   Get Next: Fetch the next object.
-   Get Bulk: Fetch multiple objects.
+   - Get Next: Fetch the next object.
+   - Get Bulk: Fetch multiple objects.
 5. Click Go to fetch and display the data in the table.
 6. Navigate OIDs using the tree on the left and click on them to populate the OID input box.
 7. Clear the table using the Clear Table button.
@@ -44,7 +44,7 @@ This project is a Python-based GUI tool for interacting with SNMP agents. It sup
 - Suphavadee Cheng - ID: 6488120
 - Jidapa Moolkaew - ID: 6488176
 
-##Contributions
+## Contributions
 - Designing the GUI
 - Implementing SNMP functionalities
 - Debugging and testing the application
